@@ -7,4 +7,4 @@
 
 [Dataset](https://github.com/hantswilliams/HHA_507_2023/blob/main/WK7/assignment7_slim_hospital_coordinates.csv) for `reverse_geocoding.py`
 
-Geospatial [dataset]([https://catalog.data.gov/dataset/obesity-percentages-090d2](https://catalog.data.gov/dataset/?_res_format_limit=0&res_format=GeoJSON)https://catalog.data.gov/dataset/?_res_format_limit=0&res_format=GeoJSON)
+Geospatial [dataset](https://catalog.data.gov/dataset/obesity-percentages-090d2](https://catalog.data.gov/dataset/?_res_format_limit=0&res_format=GeoJSON)https://catalog.data.gov/dataset/?_res_format_limit=0&res_format=GeoJSON)
